@@ -1,5 +1,7 @@
 # One HTML Design
 
+**[Open the archive →](https://moreani.github.io/One-HTML-Design/)**
+
 An archive of interactive single-file websites. Every piece is one `index.html` — no libraries, no build step, no images, no network requests. Open it offline and it works.
 
 ## The pieces
